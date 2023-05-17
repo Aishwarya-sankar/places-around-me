@@ -10,6 +10,8 @@ Display every things in website
 Give the correct input
 
 ## Code:
+
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -186,6 +188,7 @@ The uses of Washerman's Lake in Ariyalur District are
 </p>
 </body>
 </html>
+```
 
 ## Output:
 ![2023-04-19 (9)](https://user-images.githubusercontent.com/121418444/233166317-052d929e-8a3a-43b2-ab3f-22176514d847.png)
